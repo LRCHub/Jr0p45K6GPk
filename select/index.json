@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "ロスタイム - Losstime",
+  "base_artist": "Creepy Nuts",
+  "createdAt": "2026-02-08T08:57:41.421540Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ロスタイム",
+      "artist": "Creepy Nuts",
+      "has_synced": true,
+      "path": "select/01_ロスタイム_Creepy_Nuts.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ロスタイム",
+      "artist": "Creepy Nuts",
+      "has_synced": false,
+      "path": "select/02_ロスタイム_Creepy_Nuts.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ロスタイム",
+      "artist": "Creepy Nuts",
+      "has_synced": true,
+      "path": "select/03_ロスタイム_Creepy_Nuts.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ロスタイム",
+      "artist": "Oku, Hanako",
+      "has_synced": false,
+      "path": "select/04_ロスタイム_Oku,_Hanako.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ロスタイム - Losstime",
+      "artist": "Creepy Nuts",
+      "has_synced": true,
+      "path": "select/05_ロスタイム_-_Losstime_Creepy_Nuts.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ロスタイム",
+      "artist": "Creepy Nuts",
+      "has_synced": true,
+      "path": "select/06_ロスタイム_Creepy_Nuts.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ロスタイム",
+      "artist": "Flower Companyz",
+      "has_synced": true,
+      "path": "select/07_ロスタイム_Flower_Companyz.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ロスタイム",
+      "artist": "野田愛実",
+      "has_synced": true,
+      "path": "select/08_ロスタイム_野田愛実.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ロスタイム - Creepy Nuts",
+      "artist": "Baka Senpai",
+      "has_synced": true,
+      "path": "select/09_ロスタイム_-_Creepy_Nuts_Baka_Senpai.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ロスタイム (Paused)",
+      "artist": "Creepy Nuts",
+      "has_synced": true,
+      "path": "select/10_ロスタイム_(Paused)_Creepy_Nuts.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ロスタイム",
+      "artist": "CreepyNuts",
+      "has_synced": false,
+      "path": "select/pl_01_ロスタイム_CreepyNuts.txt"
+    }
+  ]
+}
